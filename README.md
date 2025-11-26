@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhishek+Singh;Senior+Software+Developer+%7C+NPCI;Backend+Engineer+%7C+Distributed+Systems+Enthusiast;UPI+%7C+Payments+%7C+Spring+Boot+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhishek+Singh;Senior+Software+Developer+%7C+NPCI;Backend+Engineer;Distributed+Systems+Enthusiast;UPI+%7C+Payments+%7C+Spring+Boot+Expert" />
 </h1>
 
 <p align="center">
